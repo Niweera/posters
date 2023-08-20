@@ -67,8 +67,8 @@ cors = CORS(
 def hello_world():
     return {
   "message": "working!",
-  "For movie posters": "https://posters.niweera.gq/movie/top+gun",
-  "For tv show posters": "https://posters.niweera.gq/tv/breaking+bad"
+  "For movie posters": "https://posters.niweera.com/movie/top+gun",
+  "For tv show posters": "https://posters.niweera.com/tv/breaking+bad"
 }, 200
 
 
